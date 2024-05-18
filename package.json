@@ -1,6 +1,6 @@
 {
   "name": "activity-queue",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Easily track activity and when that activity flushes",
   "main": "index.js",
   "scripts": {
