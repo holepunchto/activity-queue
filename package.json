@@ -1,0 +1,22 @@
+{
+  "name": "activity-queue",
+  "version": "0.0.0",
+  "description": "Easily track activity and when that activity flushes",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "devDependencies": {
+    "brittle": "^3.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holepunchto/activity-queue.git"
+  },
+  "author": "Holepunch Inc",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/activity-queue/issues"
+  },
+  "homepage": "https://github.com/holepunchto/activity-queue"
+}
